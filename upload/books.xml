@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<books>
+	<!--This is a test for dom4j, jakoes, 2007.7.19 -->
+	<book show="yes" url="lucene.net">
+		<title id="456">Lucene 学习</title>
+	</book>
+	<book show="yes" url="dom4j.com">
+		<title id="123">Dom4j Tutorials</title>
+	</book>
+	<book show="no" url="spring.org">
+		<title id="789">Spring in Action</title>
+	</book>
+	<owner>O'Reilly</owner>
+</books>
